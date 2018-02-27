@@ -1,5 +1,5 @@
 # BMI
-# Calculate Body Mass Index.
+Calculate Body Mass Index.
 
 <hr/>
 <div><h3>Calculate BMI in Metric scale</h3></div>
