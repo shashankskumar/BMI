@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="your_weight">Weight (KG)</string>
+    <string name="weight_hint">in KG</string>
+    <string name="your_height">Height (CM)</string>
+    <string name="height_hint">in CM</string>
+
+    <string name="yr_weight">Weight (LB)</string>
+    <string name="wt_hint">in LB</string>
+    <string name="yr_height">Height (ft)</string>
+    <string name="ft_hint">ft</string>
+    <string name="in_hint">in</string>
+
+    <string name="bmi_calculate">Calculate</string>
+    <string name="metric">Metric</string>
+    <string name="standard">Standard</string>
+</resources>
